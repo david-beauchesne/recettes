@@ -23,7 +23,7 @@ github-repo: rstudio/bookdown
 cover-image: images/cover.jpg -->
 
 <!--
-bookdown::render_book("index.Rmd", "bookdown::gitbook")
+suppressWarnings(bookdown::render_book("index.Rmd", "bookdown::gitbook"))
 -->
 
 # Préambule
