@@ -1,6 +1,6 @@
 ---
 title: "Livre de recettes"
-subtitle: "Préparé sans présention et sans intention de publication"
+subtitle: "Préparé sans prétention et sans intention de publication"
 author: "David Beauchesne"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
