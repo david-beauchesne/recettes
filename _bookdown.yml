@@ -1,7 +1,7 @@
 book_filename: bookdown
 repo: https://github.com/EffetsCumulatifsNavigation/Methode
 output_dir: docs
-rmd_subdir: ["Asiatique", "Dejeuners", "Dessert", "Sauces"]
+rmd_subdir: ["Asiatique", "Dejeuners", "Dessert", "Sauces", "Pain"]
 clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
 language:
