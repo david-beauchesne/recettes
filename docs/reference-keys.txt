@@ -29,3 +29,16 @@ pains
 pain-à-ginette
 ingrédients-6
 préparation-6
+recettes
+foie-bouilli
+ingrédients-7
+préparation-7
+kolaches-au-foie-dorignal
+ingrédients-8
+préparation-8
+kolaches
+ingrédients-9
+préparation-9
+pâté-au-poulet
+ingrédients-10
+préparation-10
